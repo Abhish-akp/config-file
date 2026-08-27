@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to BankSphere Accounts related QA APIs."
+  contactDetails:
+    name: "Anjali - QA Lead"
+    email: "Anjali@gmail.com"
+  onCallSupport:
+    - 12234562340
+    - 09098723321
+
+

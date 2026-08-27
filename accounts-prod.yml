@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to BankSphere Accounts related local APIs."
+  contactDetails:
+    name: "Krishna - Product Owner"
+    email: "kk@gmail.com"
+  onCallSupport:
+    - 1234098790
+    - 0984567098
+
+

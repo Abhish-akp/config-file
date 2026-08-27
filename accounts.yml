@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to BankSphere Accounts related local APIs."
+  contactDetails:
+    name: "AKP - DEVELOPER"
+    email: "AKP@gmail.com"
+  onCallSupport:
+    - 1234567890
+    - 0987654321
+
+

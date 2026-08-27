@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to BankSphere Cards related local APIs"
+  contactDetails:
+    - name: "Krishna - Product Owner"
+    - email: "kk@gmail.com"
+  onCallSupport:
+    - 1234098790
+    - 0984567098

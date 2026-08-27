@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to BackSphere loan APIs."
+  contactDetails:
+    - name: "AKP - Developer"
+    - email: "AKP@gmail.com"
+  onCallSupport:
+    - 1234567890
+    - 0987654321

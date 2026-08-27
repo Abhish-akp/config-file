@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to BankSphere Cards related QA APIs."
+  contactDetails:
+    - name: "Anjali - QA Lead"
+    - email: "Anjali@gmail.com"
+  onCallSupport:
+    - 12234562340
+    - 09098723321
+
+

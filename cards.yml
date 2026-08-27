@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to the BankSphere Card related Local API."
+  contactDetails:
+    - name: "AKP - DEVELOPER"
+    - email: "AKP@gmail.com"
+  onCallSupport:
+    - 1234567890
+    - 0987654321
+
+

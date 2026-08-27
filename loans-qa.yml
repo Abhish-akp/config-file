@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to BackSphere loan related QA APIs."
+  contactDetails:
+    - name: "Anjali - QA Lead"
+    - email: "anjali@gmail.com"
+  onCallSupport:
+    - 1234095876
+    - 0987654321
