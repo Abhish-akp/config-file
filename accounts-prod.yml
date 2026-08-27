@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to BankSphere Accounts related local APIs."
   contactDetails:
     name: "Krishna - Product Owner"
-    email: "kk@gmail.com"
+    email: "{cipher}4095c7d6cf60e92a3dd8fc62974e711e6fdb8dd7fcf499e9723c97957a9e7693"
   onCallSupport:
     - 1234098790
     - 0984567098
