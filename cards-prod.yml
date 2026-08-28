@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to BankSphere Cards related prod APIs"
+  message: "Welcome to BankSphere Cards related Production APIs"
   contactDetails:
     - name: "Krishna - Product Owner"
     - email: "kk@gmail.com"
